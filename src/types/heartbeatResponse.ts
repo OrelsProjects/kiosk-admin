@@ -9,6 +9,7 @@ export interface Auth {
   deviceFingerprint: string;
 }
 
+
 export interface Property {
   id: string;
   listing_name: string;
